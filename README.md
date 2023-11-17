@@ -6,7 +6,7 @@
 
 Cloud vision is an elastic image recognition service on AWS using Infrastructure as a Service (IaaS) resources. This service allows users to upload images, perform image recognition using a deep learning model, and receive recognition results.
 
-![Cloud Vision Architecture](url)
+![Cloud Vision Architecture](https://github.com/sreeharsha-rav/aws_cloudvision/blob/main/aws_cloudvision.png)
 
 ### User
 - Users can upload .JPEG images and will get results of the image classification.
